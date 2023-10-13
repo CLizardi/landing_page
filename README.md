@@ -1,3 +1,5 @@
+![screenshot_landing_page](https://github.com/CLizardi/landing_page/assets/52866379/a6ddc716-1abe-4b9c-91a9-85b7861a3a25)
+
 # Portfolio Landing Page
 Welcome to the repository for my portfolio landing page. In this README, you'll find an overview of the project, what I accomplished, the tools and technologies used, lessons learned, and a conclusion.
 
